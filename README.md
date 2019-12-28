@@ -1,4 +1,4 @@
-# sfmlcode
+# Square Invasion
 	My game created with sfml.
 	#include <sstream>
 	#include <iostream>
